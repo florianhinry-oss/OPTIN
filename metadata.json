@@ -1,0 +1,6 @@
+{
+  "name": "OPTIN Luxembourg | Agence Événementielle",
+  "description": "Agence événementielle de référence et marketing sportif au Luxembourg depuis 2006, dirigée par les CEOs Romain Haas et Louis Haas. Organisation d'événements majeurs, chronométrage officiel RACE RESULT, production audiovisuelle et activations corporate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
